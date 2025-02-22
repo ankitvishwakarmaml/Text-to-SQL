@@ -36,6 +36,14 @@ Create a `.env` file and add your **Groq API Key**:
 GROQ_API_KEY=your_groq_api_key
 ```
 
+## 🚀 Usage
+
+Run the Streamlit app:
+
+```sh
+streamlit run main.py
+```
+
 ---
 
 ## 🔥 Features
